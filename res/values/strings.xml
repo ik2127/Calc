@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyCalc</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="allclear">AC</string>
+    <string name="clear">C</string>
+    <string name="sign">+/-</string>
+    <string name="times">x</string>
+    <string name="divide">/</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+    <string name="comma">.</string>
+    
+
+</resources>
